@@ -1,0 +1,11 @@
+---
+title: Project page
+subtitle: Our new web page
+layout: default
+modal-id: 1
+date: 2016-01-27
+thumbnail: bg1.jpg
+alt: image-alt
+description: We have created project we page! You will be able to find here informations about project and our team. There will be also published news about features that are implemented in SparklingGraph. 
+
+---
