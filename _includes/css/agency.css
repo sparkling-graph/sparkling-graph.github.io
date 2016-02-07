@@ -300,6 +300,7 @@ header canvas{
 header .container{
     position:relative;
     z-index:100;
+    pointer-events: none;
 }
 
 header .intro-text {
