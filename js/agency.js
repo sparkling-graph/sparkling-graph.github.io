@@ -37,7 +37,7 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 
-particlesJS("particles", {
+setTimeout(function(){particlesJS("particles", {
   "particles": {
     "number": {
       "value": 80,
@@ -146,4 +146,4 @@ particlesJS("particles", {
     }
   },
   "retina_detect": true
-});
+})},1);
