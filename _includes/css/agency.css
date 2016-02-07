@@ -309,6 +309,10 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .container a{
+    pointer-events: all;
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
