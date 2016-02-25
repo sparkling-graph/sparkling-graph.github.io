@@ -1,6 +1,8 @@
 Agency Jekyll theme
 ====================
 
+[![Join the chat at https://gitter.im/sparkling-graph/sparkling-graph.github.io](https://badges.gitter.im/sparkling-graph/sparkling-graph.github.io.svg)](https://gitter.im/sparkling-graph/sparkling-graph.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
